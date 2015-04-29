@@ -1,0 +1,19 @@
+PODS:
+  - objc-zmq (0.1.2)
+
+DEPENDENCIES:
+  - objc-zmq (from `git@github.com:calvinchengx/objc-zmq.git`)
+
+EXTERNAL SOURCES:
+  objc-zmq:
+    :git: git@github.com:calvinchengx/objc-zmq.git
+
+CHECKOUT OPTIONS:
+  objc-zmq:
+    :commit: 7ebc97b4c3191b07b40d4d852048f4af02c9b299
+    :git: git@github.com:calvinchengx/objc-zmq.git
+
+SPEC CHECKSUMS:
+  objc-zmq: 96a53cef32790f4b9de4ffadfc95e56a5fc791dc
+
+COCOAPODS: 0.36.3
